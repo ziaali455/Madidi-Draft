@@ -19,10 +19,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/2S2dIj6' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/gallery/2S2dIj6' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -30,12 +30,17 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 Google Maps
+
 - Being able to drop a pin anywhere to save time sharing specific location
 - Favoriting and saving locations in different groups, especially when planning trips with others.
+
 YouTube
+
 - Being able to read the comments and browse other content while watching a video
 - Being able to quickly save things to Watch Later instead of always picking a playlist
+
 Discord
+
 - The ability to join huddles and share messages seamlessly across desktop and phone
 - Scanning a QR code to log in saves a lot of time
 
