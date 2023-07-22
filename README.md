@@ -1,8 +1,14 @@
-# Prework - *Name of App Here*
+# Prework - *Madidi*
 
-Submitted by: **Your Name Here**
+Submitted by: **Ali Zia**
 
-**Name of your app** is an app that... [TODO] 
+**Madidi** is an app that attempts to solve food waste by connecting 
+farmers in rural Ghana to a online workspace for tracking their crops
+with AI tools. In addition, the app will feature a team organizer that gives
+farmers a realtime method of tracking crop count, employee availability, and
+customer chat. For farmers in Ghana tackling alarming rates of food waste,
+Madidi attempts to simplify the farming process and get more food in the hands
+of those who need it while benefitting farmers in the process.
 
 Time spent: **X** hours spent in total
 
